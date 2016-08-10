@@ -1,7 +1,5 @@
-#ECEN 602
-#Homework - 1 
-#Group - 16
-@Author - Akshay Kulkarni(124003323) and Sangeeta Panigrahy(522007493)
+Project
+@Author - Sandeep Reddy Lankela(13463ls)
 
 This project contains the server and client of a simple chat service. The server and client use the SBCP message format to communicate. 
 The server provides a single chat room which can only handle a finite number of clients.
